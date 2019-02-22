@@ -1,2 +1,2 @@
 # atividadestsw
-Atividades da cadeira PSW
+Atividades da cadeira TSW
